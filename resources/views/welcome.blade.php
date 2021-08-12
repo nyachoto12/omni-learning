@@ -232,7 +232,7 @@
                                 <div class="pic">
 
                                     <a class="pic-main" href="course/141/entrepreneurship.html"><img
-                                            src="storage/uploads/course/download.jfif-60f95bc77f12f.png"
+                                            src="img/download.jfif-60f95bc77f12f.png"
                                             alt="Provider of business training and lessons. A logo of a consultancy firm."
                                             class="img-fluid"></a>
                                 </div>
@@ -292,7 +292,7 @@
                             <div class="pic">
 
                                 <a class="pic-main" href="#"><img
-                                        src="storage/uploads/course/coding-adults%20(2).jpg-60c75383cd3a7.png"
+                                        src="img/coding-adults%20(2).jpg-60c75383cd3a7.png"
                                         width="700" height="500" alt="Student learning programming"
                                         class="img-fluid"></a>
                             </div>
@@ -408,7 +408,7 @@
                     <div class="singles_items wow animate__animated animate__zoomIn">
                         <div class="education_block_grid style_2">
                             <div class="education_block_thumb n-shadow">
-                                <a href="#"><img src="storage/blogs/3/zhiO6eUxAw17qE.jpg" alt="course"
+                                <a href="#"><img src="img/zhiO6eUxAw17qE.jpg" alt="course"
                                         class="card-img-top"></a>
                             </div>
 
@@ -443,7 +443,7 @@
                     <div class="singles_items wow animate__animated animate__zoomIn">
                         <div class="education_block_grid style_2">
                             <div class="education_block_thumb n-shadow">
-                                <a href="#"><img src="storage/blogs/2/C3NpA5mG3H1A5O.png" alt="course"
+                                <a href="#"><img src="img/C3NpA5mG3H1A5O.png" alt="course"
                                         class="card-img-top"></a>
                             </div>
 
@@ -478,7 +478,7 @@
                     <div class="singles_items wow animate__animated animate__zoomIn">
                         <div class="education_block_grid style_2">
                             <div class="education_block_thumb n-shadow">
-                                <a href="#"><img src="storage/blogs/1/d42KKZEwCgLgT1.jpg" alt="course"
+                                <a href="#"><img src="img/d42KKZEwCgLgT1.jpg" alt="course"
                                         class="card-img-top"></a>
                             </div>
 
